@@ -74,7 +74,7 @@ Coupling-space flow in the Critical Phenomena exercises for $d=5$, with $\epsilo
 
 ### Phase-space projections of the Lorenz system
 
-The $x$–$y$, $x$–$z$, and $y$–$z$ projections of a numerical Lorenz-system trajectory from Set 5 of Optimization Methods in Physics. The example uses $\sigma=10$, $\rho=28$, and $\beta=8/3$.
+The $x–y$, $x–z$, and $y–z$ projections of a numerical Lorenz-system trajectory from Set 5 of Optimization Methods in Physics. The example uses $\sigma=10$, $\rho=28$, and $\beta=8/3$.
 
 [![Three phase-space projections of the Lorenz system](./Optimization%20Methods%20in%20Physics/Exercises/Set5/Phase%20Diagrams.png)](./Optimization%20Methods%20in%20Physics/Exercises/Set5/Phase%20Diagrams.png)
 
