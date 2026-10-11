@@ -22,7 +22,7 @@ My BSc studies were completed at **Iran University of Science and Technology**, 
 
 ## Featured projects
 
-### Computational physics methods for portfolio risk and option pricing
+### I) Computational physics methods for portfolio risk and option pricing
 
 **Course:** Optimization Methods in Physics  
 **Supervisor:** Prof. S. M. S. Movahed
@@ -41,7 +41,7 @@ Together, these examples connect methods from computational and statistical phys
 - [Stochastic calculus in finance](./Optimization%20Methods%20in%20Physics/Project/1.2%20Stochastic%20Calculus%20in%20Finance.ipynb)
 - [Binomial option pricing](./Optimization%20Methods%20in%20Physics/Project/1.3%20Binomial%20Option%20Pricing%20in%20Finance.ipynb)
 
-### Structural balance dynamics at nonzero temperature
+### II) Structural balance dynamics at nonzero temperature
 
 **Course:** Physics of Complex Systems  
 **Supervisor:** Prof. Reza Jafari
